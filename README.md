@@ -9,7 +9,7 @@ The user can enter a city name and see the current weather details using the Ope
 
 ## 🔗 Live Demo
 
-`https://aman-choudhary-99.github.io/<your-weather-repo-name>/`
+https://github.com/Aman-choudhary-99/Weather-App/
 
 --
 
