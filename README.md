@@ -46,6 +46,6 @@ The user can enter a city name and see the current weather details using the Ope
 
 ```text
 .
-├── index.html    # Main page (markup + Bootstrap + app layout)
+├── weather.html    # Main page (markup + Bootstrap + app layout)
 ├── weather.css   # Custom styles for the weather card and page
 └── weather.js    # API calls and UI update logic
