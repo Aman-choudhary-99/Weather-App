@@ -1,18 +1,17 @@
 # Weather App
 
 A simple **Weather App** built with **HTML**, **CSS**, **Bootstrap 5**, and **JavaScript**.  
-The user can enter a city name and see the current weather details using the OpenWeatherMap API.
+The user can enter a city name and see the current weather details using the **OpenWeatherMap** API.
 
 > Built as a practice / portfolio project for frontend development.
 
----
 ---
 
 ## 🔗 Live Demo
 
 [View Live](https://aman-choudhary-99.github.io/Weather-App/)
 
---
+---
 
 ## ✨ Features
 
@@ -38,7 +37,7 @@ The user can enter a city name and see the current weather details using the Ope
 - **CSS3** – basic layout and custom styling (`weather.css`)  
 - **Bootstrap 5** – responsive layout, card, form, buttons  
 - **JavaScript (ES6)** – Fetch API, DOM updates, error handling  
-- **OpenWeatherMap API** – weather data (metric units – °C)
+- **OpenWeatherMap API** – weather data in metric units (°C)
 
 ---
 
