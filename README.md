@@ -6,10 +6,11 @@ The user can enter a city name and see the current weather details using the Ope
 > Built as a practice / portfolio project for frontend development.
 
 ---
+---
 
 ## 🔗 Live Demo
 
-https://github.com/Aman-choudhary-99/Weather-App/
+[View Live](https://aman-chodhary-99.github.io/Weather-App/)
 
 --
 
